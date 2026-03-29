@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-bi1801" alt="himanshu-bi1801" /></a> </p>
 
-- 🔭 I’m currently working on **EV Vechiles Forecasting and Sales Analysis**
-
-- 🌱 I’m currently learning **SQL**
+- 🔭 I’m currently working on **SQL and Power BI Projects**
 
 - 👯 I’m looking to collaborate on **SQL Projects and development**
 
